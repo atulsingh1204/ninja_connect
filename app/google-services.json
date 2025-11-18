@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866906423676",
+    "project_id": "ninjaconnect-58f14",
+    "storage_bucket": "ninjaconnect-58f14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866906423676:android:6e0390c155177c6df424f9",
+        "android_client_info": {
+          "package_name": "com.atul.ninja_connect_java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKSdoHg67UcI6h0rWDub91SL_YqL8B9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
